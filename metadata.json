@@ -1,0 +1,5 @@
+{
+  "name": "Deep Steganography Framework",
+  "description": "An interactive web application that visually simulates a deep steganography framework, demonstrating how messages are securely embedded into and extracted from images.",
+  "requestFramePermissions": []
+}
